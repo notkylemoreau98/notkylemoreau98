@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notkylemoreau98
 - 👀 I’m interested in strengthing my skills as a front-end developer through real-world applications!
-- 🌱 I’m currently learning React Testing and Git
+- 🌱 I’m currently learning Jest Testing and Git
 - 💞️ I’m looking to collaborate on any future full-time opportunities
 - 📫 How to reach me www.kylemoreau.com 
 
