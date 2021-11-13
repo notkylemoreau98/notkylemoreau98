@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @notkylemoreau98
-- 👀 I’m interested in strengthing my skills as a front-end developer through real-world applications!
-- 🌱 I’m currently learning Jest Testing and Webpack
-- 💞️ I’m looking to collaborate on any future full-time opportunities
+- 👋 Hi, I’m Kyle Moreau
+- 👀 I’m interested in learning to developer mobile applications
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on any music app ideas or design projects
 - 📫 How to reach me www.kylemoreau.com or email me at williamkylemoreau@gmail.com
 
 <!---
