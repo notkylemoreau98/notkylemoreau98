@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle Moreau
-- 👀 I’m interested in learning to developer mobile applications
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on any music app ideas or design projects
+- 👀 I’m interested in expanding into the MERN Stack
+- 🌱 I’m currently working on professional projects with Next.js
+- 💞️ I’m looking to collaborate on any music app ideas or other design projects
 - 📫 How to reach me www.kylemoreau.com or email me at williamkylemoreau@gmail.com
 
 <!---
